@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: About
+author: Avinash Agarwal
 permalink: /about/
 ---
 
