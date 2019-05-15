@@ -23,9 +23,7 @@ github_username:  AvinashAgarwal14
 
 # Build settings
 markdown: kramdown
-theme:      tale
-permalink:  /:year-:month-:day/:title
-paginate:   5
+theme: minima
 plugins:
   - jekyll-feed
 
