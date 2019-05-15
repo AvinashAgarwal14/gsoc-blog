@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-05-15 21:24:54 +0530
+title:  "Getting selected in Google Summer Of Code 2019!"
+date:   2019-05-10 21:24:54 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hello Everyone! This is my very first post among the series of posts that will be coming up during this GSoC time period. Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3-month programming project during their break from school. I have been trying to be a part of GSoC from the last year but unfortinaley was not shortlisted the las time. Nevertheless I am so glad to tell you all that it makes me very happy to be a part of this year's GSoC.  
+I will be working to contribute to Sugar Lab's Exerciser project. It is a react based app through which user can create questions in various formats(MCQ, Fill in the Blanks etc) and other users can answer them. A comparative study of responses of a group of people can also be made. You can have a lot at the application here - [Sugarizer](https://try.sugarizer.org/).  
+```
+My work will primarily be:
+1. To add new Templates.
+2. To integrate a remote library of Exercises.
+3. Introduce Exerciser's own Image Editor.
+```  
+The details of which can be found here -  [Project-Idea](https://summerofcode.withgoogle.com/projects/#5993905961566208). I will keep posting about my progress during the entire GSoC timeline. See you all in Week 1. 
