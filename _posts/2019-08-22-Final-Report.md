@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Final Report"
-date:   2019-08-18 20:10:54 +0530
+date:   2019-08-22 10:40:54 +0530
 categories: jekyll update
 author: Avinash Agarwal
 ---
@@ -39,4 +39,4 @@ During the third phase, the following features were included:
 a. [`Image Editor Integration`](https://avinashagarwal14.github.io/gsoc-blog/2019-08-10/Week12)  
 b. [`Abecedarium Images in Exerciser and application testing`](https://avinashagarwal14.github.io/gsoc-blog/2019-08-18/Week13)
 
-The final PR with all the changes combined can be found [here]().
+The final PR with all the changes combined can be found [here](https://github.com/llaske/sugarizer/pull/369).
