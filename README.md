@@ -1,2 +1,3 @@
 # GSoC-Blog
-The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which students complete a free and open-source software coding project during the summer. This website contains blogs related to my milestones in GSoC '19.
+The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which students complete a free and open-source software coding project during the summer. This website contains blogs related to my milestones in GSoC '19 where I contributed to the project [Exerciser](https://github.com/llaske/ExerciserReact) under the organisation [Sugar Labs](https://sugarlabs.org/).  
+Link to the website: https://avinashagarwal14.github.io/gsoc-blog/
